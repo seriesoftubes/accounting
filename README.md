@@ -1,6 +1,6 @@
 # accounting - money and currency formatting for golang
 [![Build Status](https://travis-ci.org/seriesoftubes/accounting.svg?branch=master)](https://travis-ci.org/seriesoftubes/accounting)
-[![Coverage Status](https://coveralls.io/repos/seriesoftubes/accounting/badge.svg?branch=master&service=github)](https://coveralls.io/github/seriesoftubes/accounting?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/seriesoftubes/accounting/badge.svg?branch=master)](https://coveralls.io/github/seriesoftubes/accounting?branch=master)
 [![GoDoc](https://godoc.org/github.com/seriesoftubes/accounting?status.svg)](https://godoc.org/github.com/seriesoftubes/accounting)
 
 accounting is a library for money and currency formatting. (inspired by [accounting.js](https://github.com/openexchangerates/accounting.js))
